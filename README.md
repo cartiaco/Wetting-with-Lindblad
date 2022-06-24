@@ -1,6 +1,6 @@
 # Wetting-with-Lindblad
 
-In this repository, we provide the numerical codes used in the article *Wetting critical behavior within the Lindblad dissipative dynamics* by C. Artiaco, A. Nava, and M. Fabrizio (Ref.1) to study the critical behavior, both in space and time, of the wetting interface within the coexistence region around the first-order phase transition of a fully-connected quantum Ising model in a slab geometry. For that, we employ a simple Lindblad master equation in which temperature is inherited by the coupling to a dissipative bath rather than being a functional parameter as in the conventional Cahn’s free energy. 
+In this repository, we provide the numerical codes used in the article *Wetting critical behavior within the Lindblad dissipative dynamics* by C. Artiaco, A. Nava, and M. Fabrizio (Ref.[1](https://arxiv.org/abs/2206.11662)) to study the critical behavior, both in space and time, of the wetting interface within the coexistence region around the first-order phase transition of a fully-connected quantum Ising model in a slab geometry. For that, we employ a simple Lindblad master equation in which temperature is inherited by the coupling to a dissipative bath rather than being a functional parameter as in the conventional Cahn’s free energy. 
 
 ## Description
 
@@ -22,4 +22,4 @@ The notebook is fully written in the [Wolfram Language](https://www.wolfram.com/
 
 The codes in this repository are freely available; please acknowledge their use by referring to:
 
-1. C. Artiaco, A. Nava, M. Fabrizio, Wetting critical behavior within the Lindblad dissipative dynamics, arXiv REF
+1. C. Artiaco, A. Nava, M. Fabrizio, Wetting critical behavior within the Lindblad dissipative dynamics, [arXiv2206.11662](https://arxiv.org/abs/2206.11662)
